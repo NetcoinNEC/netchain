@@ -1,0 +1,1 @@
+console.log('CLI Commands for Netchain');
