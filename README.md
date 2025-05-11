@@ -17,7 +17,7 @@ Netchain & Netcoin (NEC) is a decentralized blockchain platform designed to faci
 To get started with the Netchain & Netcoin project, clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/NetcoinNEC/netchain.git
 cd netchain-netcoin
 npm install
 ```
